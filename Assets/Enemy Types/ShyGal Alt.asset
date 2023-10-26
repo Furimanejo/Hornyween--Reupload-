@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33644993f3fca7c44aa5c1906a75888b, type: 3}
+  m_Name: ShyGal Alt
+  m_EditorClassIdentifier: 
+  <Health>k__BackingField: 50
+  <MoveSpeed>k__BackingField: 1.2
+  <Damage>k__BackingField: 50
+  <Drop>k__BackingField: {fileID: 1947746812266637263, guid: 851bf80bbe3af7144960736c22875c23, type: 3}
+  <WalkAnimSprites>k__BackingField:
+  - {fileID: 1941244750, guid: 4d06cc88649401f45b19444554731999, type: 3}
+  - {fileID: 1286139086, guid: 4d06cc88649401f45b19444554731999, type: 3}
+  - {fileID: 1405475403, guid: 4d06cc88649401f45b19444554731999, type: 3}
+  - {fileID: -527364025, guid: 4d06cc88649401f45b19444554731999, type: 3}

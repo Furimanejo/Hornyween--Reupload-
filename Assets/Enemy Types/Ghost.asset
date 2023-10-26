@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33644993f3fca7c44aa5c1906a75888b, type: 3}
+  m_Name: Ghost
+  m_EditorClassIdentifier: 
+  <Health>k__BackingField: 30
+  <MoveSpeed>k__BackingField: 1.7
+  <Damage>k__BackingField: 50
+  <Drop>k__BackingField: {fileID: 1947746812266637263, guid: 851bf80bbe3af7144960736c22875c23, type: 3}
+  <WalkAnimSprites>k__BackingField:
+  - {fileID: -1032241748, guid: 97c23c791e4a90843bcf5fb95ae0026e, type: 3}
+  - {fileID: -1285420546, guid: 97c23c791e4a90843bcf5fb95ae0026e, type: 3}
+  - {fileID: 604595391, guid: 97c23c791e4a90843bcf5fb95ae0026e, type: 3}
+  - {fileID: 160955672, guid: 97c23c791e4a90843bcf5fb95ae0026e, type: 3}
